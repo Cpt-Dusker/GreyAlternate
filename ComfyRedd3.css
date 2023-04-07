@@ -2118,67 +2118,6 @@ button.button-2b4VEQ.height20-WSMpPs.button-f2h6uQ.lookFilled-yCfaCM.colorGreen-
 }
 
 
-/* centered user popout avatar*/
-.avatarWrapperNormal-ahVUaC,
-.preview-Z55SA3 .avatarUploaderNormal-2m2hFm,
-.avatarWrapperNonUserBot-2LumL4 {
-	position: absolute;
-	transform: translate(-50%);
-	left: 50%;
-}
-
-.headerTop-3GPUSF {
-	text-align: center;
-	position: relative;
-	max-width: 100%;
-	right: 0px;
-	top: 0px;
-}
-
-.profileBadges-2pItdR {
-	justify-content: center;
-	position: relative;
-	max-width: 100%;
-	right: 0px;
-	top: 0px;
-}
-
-.customStatus-3XAoF9 {
-	display: flex;
-	justify-content: center;
-	text-align: center;
-}
-
-.userPopout-2j1gM4 .UserDetails-dates-container,
-#account .UserDetails-dates-container,
-.preview-Z55SA3 .UserDetails-dates-container,
-.preview-Z55SA3 .popoutInfo-16MuYF .eyebrow-Ejf06y,
-.customizationSection-IGy2fS .userInfoBody-1zgAd0 {
-	display: flex;
-	justify-content: center;
-	text-align: center;
-}
-
-#account .profileBadges-2pItdR {
-	margin-right: 20px;
-}
-
-#account .headerTop-3GPUSF {
-	margin-left: 20px;
-}
-
-#app-mount .profileGroup-1yKk23 .item-1OdjEX {
-	background-color: transparent !important;
-	border-radius: 0px;
-}
-
-#account:not(.menu-1QACrS) {
-	margin-left: 40px;
-	margin-bottom: -17px;
-	border-bottom-left-radius: 0;
-}
-
-
 /* fix invites from browser */
 .focusLock-2tveLW .container-1Gt1iQ .inviteSplash-2Q0PLE {
 	display: none;
